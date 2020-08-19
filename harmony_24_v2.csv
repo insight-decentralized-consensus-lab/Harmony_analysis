@@ -1,4 +1,4 @@
-shard_number,txn_hash,from_address,to_adress,age,txn_value,txn_fee
+shard_number,txn_hash,from_address,to_address,age,txn_value,txn_fee
 0,0x861...4d402,one1e...hs206,one1w...2xt26,08/18/2020 19:34:41 MDT,1228590,0.000021
 0,0x9ce...87fd5,one18...zp09d,one1w...2xt26,08/18/2020 19:30:21 MDT,3071995,0.000021
 0,0x2bd...4dea5,one1t...2r54m,one10...p6gwz,08/18/2020 19:30:16 MDT,12,0.000021
